@@ -4,4 +4,4 @@ NPM     : 2106630012
 
 Kelas   : E
 
-Hobi    : Ngoding
+Hobi    : Makan
